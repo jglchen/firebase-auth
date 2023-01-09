@@ -1,0 +1,48 @@
+/* Set min-height to avoid page reflow while session loading */
+.signedInStatus {
+    display: block;
+    padding: 1.2rem 0 0.6rem 0;
+    width: 100%;
+    background-color: rgba(0,0,0,.05);
+    border-radius: 0 0 .3rem .3rem;
+}
+
+.signedInStatus::before,
+.signedInStatus::after {
+  content: " ";
+  display: block; }
+
+.signedInStatus:after {
+  clear: both; }
+
+.msg {
+    display: inline-block;
+    font-size: 1rem;
+    line-height: 2.5;
+    margin-left:1rem;
+    vertical-align: middle;
+} 
+
+.verticalspace {
+     margin-bottom: 1.5rem;
+}
+
+h5.centermark {
+  width: 100%; 
+  text-align: center; 
+  border-bottom: 1px solid #000; 
+  line-height: 0.1rem;
+  margin: 10px 0 20px; 
+}
+
+h5.centermark span { 
+  background:#f8f8f8; 
+  padding:0 10px; 
+}
+
+
+
+
+
+
+  
