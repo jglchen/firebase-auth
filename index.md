@@ -25,3 +25,4 @@ This example creates an authentication system that uses a **signed and encrypted
 ### [React Native GitHub](https://github.com/jglchen/react-native-firebase-auth)
 ### back To [Series Home](https://jglchen.github.io/)
 
+{% include giscus.html %}
