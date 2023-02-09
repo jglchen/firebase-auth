@@ -45,6 +45,9 @@ This is a project of my [Side Project Series](https://jglchen.github.io/), liste
 - #### [React Native Chat Applications with Cloud Firestore](https://jglchen.github.io/firestore-realtime-chat-mobile/)
     A react native(mobile) version of [Chat Applications with Cloud Firestore](https://jglchen.github.io/firestore-realtime-chat/), a real-time chat application with Firebase Cloud FireStore.
 
+- #### [Chat Applications with Firebase Cloud Messaging](https://jglchen.github.io/firebase-realtime-chat/)
+    A real-time chat application with Next.js using Firebase Cloud Messaging.
+
 - #### [Chat Applications with Socket.IO](https://jglchen.github.io/nextjs-socket-chat/)
     A real-time chat application built with Next.js using Socket.IO for demonstrations.
 
