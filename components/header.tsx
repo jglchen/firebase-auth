@@ -22,9 +22,11 @@ export default function Header({user, mutateUser}: any) {
          <h1 className="text-center">
            Welcome to Firebase Authentication Illustration!
          </h1>
+         {/* 
          <h5 className="text-right">
            React Native Expo Publish: <a href="https://exp.host/@jglchen/firebase-auth" target="_blank" rel="noreferrer">https://exp.host/@jglchen/firebase-auth</a>
          </h5>
+         */}
       </div>
    );
 }
