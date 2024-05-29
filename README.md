@@ -2,7 +2,7 @@
 
 This example creates an authentication system that uses a **signed and encrypted cookie to store session data**. It uses current best practices as for authentication in the Next.js ecosystem, we use **`useUser` custom hook**  together with [swr](https://swr.vercel.app/) for data fetching.
    
-- Firebase Authentication with Email/Password, Google Sign In, Facebook Sign In, GitHub Sign In, and Email Sign In available to authenticate users.
+- Firebase Authentication with Email/Password, Google Sign In, GitHub Sign In, and Email Sign In available to authenticate users.
 - The emails registered in Firebase Authentication are saved in a separate database for future data development of individual users, for this illustration Firestore Database.
 - Session data is signed and encrypted in a cookie.
       
